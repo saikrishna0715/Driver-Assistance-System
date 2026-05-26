@@ -16,7 +16,7 @@ The integration aims to enhance driver safety through providing timely warnings 
 
 <h2>Proposed system</h2>
 
-<img src="C:\Programming\Driver-Assistance-System\Architecture and Flow charts\Proposed_system.png">
+<img src="Architecture and Flow charts/Proposed_system.png">
 
 <br>
 
@@ -28,23 +28,23 @@ The proposed system has 2 point of views
 <h2>POV_1 : Monitoring the external environment </h2>
 
 <h3>class UML diagram</h3>
-<img src="C:\Programming\Driver-Assistance-System\UML Diagrams\POV_1\Class_UML.png">
+<img src="UML Diagrams/POV_1/Class_UML.png">
 
 <h3>Collaboration UML diagram</h3>
-<img src="C:\Programming\Driver-Assistance-System\UML Diagrams\POV_1\Collaboration_UML.png">
+<img src="UML Diagrams/POV_1/Collaboration_UML.png">
 
 <h3>Sequence UML diagram</h3>
-<img src="C:\Programming\Driver-Assistance-System\UML Diagrams\POV_1\Sequence_UML.png">
+<img src="UML Diagrams/POV_1/Sequence_UML.png">
 
 <h3>Usecase UML Diagram</h3>
-<img src="C:\Programming\Driver-Assistance-System\UML Diagrams\POV_1\UseCase_UML.png">
+<img src="UML Diagrams/POV_1/UseCase_UML.png">
 
 <h2>POV_2 : Monitoring the internal environment </h2>
 <h3>UML diagram</h3>
-<img src="C:\Programming\Driver-Assistance-System\UML Diagrams\POV_2\Drowsiness.png">
+<img src="UML Diagrams/POV_2/Drowsiness.png">
 
 <h3>Psudo code</h3>
-<img src="C:\Programming\Driver-Assistance-System\Architecture and Flow charts\Psudo_Drowsiness.png">
+<img src="Architecture and Flow charts/Psudo_Drowsiness.png">
 
 <h2>Code setup : </h2>
 <h3>Requirements : </h3>
@@ -154,7 +154,7 @@ The proposed system has 2 point of views
 &nbsp  &nbsp &nbsp 11. 12v 2A Power supply <br>
 &nbsp  &nbsp &nbsp 12. 15 pin to 22 pin cable <br>
 <h3>Hardware Integration : </h3>
-<img src="C:\Programming\Driver-Assistance-System\Architecture and Flow charts\Hardware.jpg">
+<img src="Architecture and Flow charts/Hardware.jpg">
 
 <h2>Results : </h2>
 
@@ -162,15 +162,15 @@ The proposed system has 2 point of views
 
 1. Front Collision Warning System :
 
-<img src="C:\Programming\Driver-Assistance-System\Results\Screenshot 2024-04-15 at 12.17.36 AM.png">
+<img src="Results/Screenshot 2024-04-15 at 12.17.36%E2%80%AFAM.png">
 
 2. Lane Departure Warning System :
 
-<img src="C:\Programming\Driver-Assistance-System\Results\Screenshot 2024-04-15 at 12.20.14 AM.png">
+<img src="Results/Screenshot 2024-04-15 at 12.20.14%E2%80%AFAM.png">
 
 3. Lane Keeping Assist System :
 
-<img src="C:\Programming\Driver-Assistance-System\Results\Screenshot 2024-04-15 at 12.14.07 AM.png">
+<img src="Results/Screenshot 2024-04-15 at 12.14.07%E2%80%AFAM.png">
 
 <h3>POV_2 : Monitoring the internal environment</h3>
 
@@ -178,11 +178,11 @@ The proposed system has 2 point of views
 
 1.  Active driver :
 
-<img src="C:\Programming\Driver-Assistance-System\Results\Screenshot 2024-02-21 at 7.49.40 PM.png">
+<img src="Results/Screenshot 2024-02-21 at 7.49.40%E2%80%AFPM.png">
 
 2.  Drowsy driver :
 
-<img src="C:\Programming\Driver-Assistance-System\Results\Screenshot 2024-02-21 at 7.50.26 PM.png">
+<img src="Results/Screenshot 2024-02-21 at 7.50.26%E2%80%AFPM.png">
 <br>
 
 <h4>This repository contains the submission for our project by Mallela Sai Krishna and Team, B. Tech CSE - AIML student from MLR Institute of Technology. The project encompasses solutions to problems demonstrating proficiency in machine learning and computer vision.</h4>
@@ -200,3 +200,4 @@ The proposed system has 2 point of views
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
